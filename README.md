@@ -1,70 +1,71 @@
-<!-- 🚀 Roman | The Frontend Emperor 👑 -->
+<!-- 💎 Roman | The Frontend Emperor 👑 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=650&lines=Roman+-+The+Frontend+Emperor;UI/UX+Architect+%7C+Digital+Visionary;Designing+Experiences+%2C+Not+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=700&lines=Roman+-+The+Frontend+Emperor;UI/UX+Architect+%7C+Design+Visionary;Crafting+Pixels+With+Purpose" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://i.ibb.co/hXk0m6T/roman-avatar.png" width="150" style="border-radius:50%; box-shadow:0 0 40px #9F7AEA;" alt="Roman Profile Picture"/>
+  <img src="https://github.com/roman-dev.png" width="180" style="border-radius:50%; box-shadow:0 0 50px #9F7AEA;" alt="Roman Profile Picture"/>
 </p>
 
-<h3 align="center">👑 Frontend Developer | UI/UX Designer | Creative Technologist 💻</h3>
+<h3 align="center">👑 Frontend Developer | UI/UX Designer | Digital Craftsman 💻</h3>
 
 ---
 
-### 🎭 About Me
-> “I don’t write code — I design experiences that move.”  
+### 🧠 About Me
+> “I don’t build websites — I build emotions powered by design and logic.”  
 
-🧠 Passionate about **modern frontend architecture & pixel-perfect interfaces**  
-🎨 Blending **aesthetic design + smart code**  
-⚡ Crafting visuals that speak louder than words  
-🪄 Building experiences powered by **Vue.js • React • GSAP • Tailwind**  
-📍 Motto: *Create Bold. Code Beautiful.*
+🎨 Blending **art + technology** for smooth, immersive UI/UX  
+⚡ Expert in **Vue.js • React • Tailwind • GSAP • Framer Motion**  
+💎 Design that speaks; code that performs  
+🌈 Creating interfaces that look, feel, and *breathe* aesthetics  
+💬 Motto: *If it’s not beautiful, it’s not finished.*
 
 ---
 
-### ⚙️ The Arsenal
+### 🧩 Tech & Design Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap,figma,git,github,vscode,gsap" />
 </p>
 
 ---
 
-### 🧩 Design Philosophy
+### 🎨 Design Philosophy
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=🎨+Design+with+Emotion;💻+Develop+with+Precision;🚀+Deliver+with+Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=🎭+Design+is+Emotion;💻+Code+is+Precision;🚀+Creativity+is+Power" alt="Typing Animation" />
 </div>
 
 <p align="center">
-  <b>Design = Psychology × Motion × Detail</b>  
-  <br>
-  <em>My UI talks before you even touch it.</em>
+  <b>Design is not decoration — it’s communication.</b><br>
+  <em>My UIs talk before you click.</em>
 </p>
 
 ---
 
-### 💼 Core Skills
+### 💼 My Expertise
 
-| Domain | Tech Stack | Description |
+| Area | Tools / Tech | Description |
 |:--|:--|:--|
-| 🎨 UI/UX Design | Figma, Canva, Framer | Minimal, fluid, expressive visuals |
-| ⚛️ Frontend Dev | Vue, React, Astro | Reusable, animated, responsive components |
-| 💅 Styling & Motion | Tailwind, Sass, GSAP | Pixel-perfect + buttery animations |
-| 🧠 Workflow | Git, Vite, VSCode | Scalable, fast, clean coding approach |
+| 🎨 **UI/UX Design** | Figma, Canva, Framer | Crafting visual harmony & storytelling layouts |
+| ⚛️ **Frontend Dev** | Vue, React, Astro | Scalable, animated, fast user experiences |
+| 💅 **Styling & Motion** | Tailwind, Sass, GSAP, AOS | Building clean, fluid & expressive UI motion |
+| 🧠 **Workflow** | Git, GitHub, Vite | Clean, maintainable, and performance-focused dev flow |
 
 ---
 
-### 🧠 My GitHub Stats
+### 📊 GitHub Power Zone
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roman-dev&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20&title_color=9F7AEA&icon_color=9F7AEA" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-dev&layout=compact&theme=midnight-purple&hide_border=true&border_radius=20&title_color=9F7AEA" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roman-dev&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20&title_color=9F7AEA&icon_color=9F7AEA" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-dev&layout=compact&theme=midnight-purple&hide_border=true&border_radius=20&title_color=9F7AEA" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roman-dev&theme=midnight-purple&hide_border=true&border_radius=20" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roman-dev&theme=midnight-purple&hide_border=true&border_radius=20" height="170" />
 </p>
 
 ---
@@ -87,11 +88,11 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=550&lines=Think+like+a+Designer;Code+like+a+Developer;Lead+like+a+Visionary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=👑+Roman+-+The+Frontend+Emperor;💻+Code+Like+a+Designer;🎨+Design+Like+a+Visionary;🚀+Lead+Like+a+Creator" />
 </p>
 
 <p align="center">
-  <b>“I turn pixels into emotions — one line of code at a time.”</b>  
+  <b>“I turn pixels into perfection — and perfection into emotion.” ✨</b>
 </p>
 
 ---
