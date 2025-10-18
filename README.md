@@ -36,7 +36,8 @@
 ### 🎨 Design Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=🎭+Design+is+Emotion;💻+Code+is+Precision;🚀+Creativity+is+Power" alt="Typing Animation" />
+   <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=3000&pause=1000&color=DAA6FF&center=true&vCenter=true&width=600&lines=✨+Design+Speaks+Before+You+Click;🎨+Aesthetics+Meet+Logic;💻+Every+Pixel+Has+a+Purpose" alt="Design Flow"/>
+</div>
 </div>
 
 <p align="center">
