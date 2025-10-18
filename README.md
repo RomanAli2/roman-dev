@@ -1,27 +1,27 @@
 # roman-dev
-<!-- 🎨 Roman – The Frontend King 👑 -->
+<!-- 💎 Roman – The Frontend Visionary 👑 -->
 
 <h1 align="center">🎨 Hey, I'm <span style="color:#8B5CF6;">Roman</span> 👋</h1>
-<h3 align="center">👑 Frontend Developer | UI/UX Designer | Aesthetic Thinker 💻</h3>
+<h3 align="center">👑 Frontend Developer | UI/UX Designer | Pixel-Perfect Creator 💻</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 30px #8B5CF6;" alt="Roman's Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="170" style="border-radius:50%; box-shadow:0 0 40px #8B5CF6;" alt="Roman's Profile Picture"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=✨+Designing+with+Code;💻+Building+Modern+Interfaces;🎯+Creating+Clean+User+Experiences;🚀+Frontend+is+Art!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=✨+Designing+with+Code;💻+Building+Modern+Interfaces;🎯+Creating+User+Experiences;🚀+Frontend+is+an+Art+Form!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me  
-> “I don’t just build UIs — I craft experiences that speak design.”  
+> “I don’t just code websites — I build experiences that *feel alive*.”  
 
-💡 Passionate about **Frontend Development & Modern UI/UX**  
-🎨 Skilled in **responsive web design & smooth animations**  
-🌈 Strong eye for **colors, layout & visual hierarchy**  
-⚡ Currently mastering **Vue.js, TailwindCSS & Framer Motion**  
-💬 Motto: *Code the beauty. Design the logic.*  
+💡 Focused on **Frontend Development & Modern UI/UX Design**  
+🎨 Skilled in **Responsive Design, Animation, and Aesthetic Layouts**  
+🌈 Strong eye for **color theory, typography & visual balance**  
+⚡ Currently mastering **Vue.js, React, TailwindCSS & GSAP**  
+💬 Motto: *Think Design. Code Art.*
 
 ---
 
@@ -35,7 +35,7 @@
 ### 🧩 Design + Code Stack Summary
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=💡+Design+meets+Code;🎨+Creativity+meets+Logic;🚀+Roman's+Complete+Frontend+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=💡+Design+Meets+Code;🎨+Creativity+Meets+Logic;🚀+Roman's+Frontend+Universe" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -52,7 +52,7 @@
 <br>
 <a href="#"><img src="https://skillicons.dev/icons?i=vue,react,astro" height="45"/></a>
 <br>
-💻 *Clean, scalable and interactive interfaces.*
+💻 *Clean, scalable, and interactive web apps.*
 
 ---
 
@@ -60,15 +60,15 @@
 <br>
 <a href="#"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,css,html" height="45"/></a>
 <br>
-🌈 *Crafting responsive and aesthetic layouts.*
+🌈 *Crafting responsive, elegant, and aesthetic layouts.*
 
 ---
 
-✨ **Animations & Interactions**
+🌀 **Animations & Micro-Interactions**
 <br>
 <a href="#"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>
 <br>
-🌀 *Framer Motion | AOS | GSAP — smooth user experience.*
+⚡ *Framer Motion | AOS | GSAP — making UI feel alive.*
 
 ---
 
@@ -76,15 +76,16 @@
 <br>
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/></a>
 <br>
-⚙️ *Organized, clean and consistent collaboration.*
+🧠 *Organized, optimized, and clean development process.*
 </div>
 
+---
 
 ### 💻 My GitHub Highlights
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roman-dev&show_icons=true&theme=gradient&border_radius=20&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-dev&layout=compact&theme=gradient&hide_border=true&title_color=8B5CF6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roman-dev&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" height="170"/>
 
 <br><br>
 
@@ -93,9 +94,9 @@
 
 ---
 
-### 🏆 Achievements & Aesthetics  
+### 🏆 Achievements & Style  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roman-dev&theme=onedark&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roman-dev&theme=onestar&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
