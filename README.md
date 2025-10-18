@@ -37,7 +37,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=700&lines=🎭+Design+Is+Psychology;💻+Code+Is+Precision;🚀+Creativity+Is+Control" alt="Design Philosophy"/>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=700&lines=🎭+Design+Is+Psychology;💻+Code+Is+Precision;🚀+Creativity+Is+Power" 
+      alt="Design Philosophy"
+    />
   </a>
 </div>
 
