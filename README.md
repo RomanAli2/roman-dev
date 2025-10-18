@@ -1,4 +1,3 @@
-# roman-dev
 <!-- 💎 Roman – The Frontend Visionary 👑 -->
 
 <h1 align="center">🎨 Hey, I'm <span style="color:#8B5CF6;">Roman</span> 👋</h1>
@@ -104,7 +103,7 @@
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:roman@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="mailto:romanali87866677@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://github.com/roman-dev"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
   <a href="https://figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="45"/></a>
 </p>
@@ -118,7 +117,7 @@
 ---
 
 <p align="center">
-  <b>“I turn pixels into perfection — one line of code at a time.” ✨</b>
+  <b>“I don’t chase trends — I design the future with code.” ⚡</b>
 </p>
 
 ⭐ **From [Roman](https://github.com/roman-dev)**
