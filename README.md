@@ -36,7 +36,9 @@
 ### 🎨 Design Philosophy
 
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🎨+Design+Feels+Before+It+Shows;💡+Ideas+Drive+The+Interface;✨+Aesthetic+Is+The+Language" alt="Soft Design"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=700&lines=🎭+Design+Is+Psychology;💻+Code+Is+Precision;🚀+Creativity+Is+Control" alt="Design Philosophy"/>
+  </a>
 </div>
 </div>
 </div>
