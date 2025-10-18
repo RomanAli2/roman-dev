@@ -34,15 +34,51 @@
 
 ### 🧩 Design + Code Stack Summary
 
-| Area | Tools / Tech |
-|------|---------------|
-| **UI Design** | Figma, Canva, Framer |
-| **Frontend Frameworks** | Vue.js, React |
-| **Styling** | TailwindCSS, Bootstrap, SCSS |
-| **Animations** | Framer Motion, AOS.js |
-| **Version Control** | Git & GitHub |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=💡+Design+meets+Code;🎨+Creativity+meets+Logic;🚀+Roman's+Complete+Frontend+Stack" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+💅 **UI / UX Design Tools**
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma,canva,framer" height="45"/></a>
+<br>
+🎨 *I bring visuals to life through design precision.*
 
 ---
+
+⚛️ **Frontend Frameworks**
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=vue,react,astro" height="45"/></a>
+<br>
+💻 *Clean, scalable and interactive interfaces.*
+
+---
+
+🎨 **Styling & Layout**
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,css,html" height="45"/></a>
+<br>
+🌈 *Crafting responsive and aesthetic layouts.*
+
+---
+
+✨ **Animations & Interactions**
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>
+<br>
+🌀 *Framer Motion | AOS | GSAP — smooth user experience.*
+
+---
+
+🧰 **Version Control & Workflow**
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/></a>
+<br>
+⚙️ *Organized, clean and consistent collaboration.*
+</div>
+
 
 ### 💻 My GitHub Highlights
 <div align="center">
