@@ -1,81 +1,87 @@
 # roman-dev
-<!-- ⚡ ROMAN – THE LEGEND DEVELOPER ⚡ -->
+<!-- 🎨 Roman – The Frontend King 👑 -->
 
-<h1 align="center">🔥 𝗛𝗲𝘆, 𝗜'𝗺 <span style="color:#00e6e6;">𝗥𝗼𝗺𝗮𝗻</span> 👋</h1>
-<h3 align="center">💻 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗠𝗶𝗻𝗱 | 𝗡𝗲𝘃𝗲𝗿 𝗦𝘁𝗼𝗽𝘀 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 ⚙️</h3>
+<h1 align="center">🎨 Hey, I'm <span style="color:#8B5CF6;">Roman</span> 👋</h1>
+<h3 align="center">👑 Frontend Developer | UI/UX Designer | Aesthetic Thinker 💻</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="165" style="border-radius:50%; box-shadow: 0 0 30px #00ffff;" alt="Roman's Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 30px #8B5CF6;" alt="Roman's Profile Picture"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=🔥+Cᴏᴅᴇ+Lɪᴋᴇ+A+Wᴀʀʀɪᴏʀ;💎+Dᴇsɪɢɴ+Lɪᴋᴇ+Aɴ+Aʀᴛɪsᴛ;🚀+Bᴜɪʟᴅ+Lɪᴋᴇ+A+Vɪsɪᴏɴᴀʀʏ" alt="Typing SVG" />
-</p>
-
----
-
-### 💫 **About Me**
-> “I don’t follow the crowd — I redefine the standards.”  
-
-⚡ Passionate about building **high-performance, modern web apps**  
-💡 Focused on **frontend mastery** with a strong **backend vision**  
-🎯 Obsessed with **clean design & powerful code**  
-🔥 Believe in *Consistency. Focus. Precision.*  
-🌍 Working towards being one of the **top developers worldwide**
-
----
-
-### ⚒️ **My Tech Universe**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,express,tailwind,bootstrap,mongodb,git,github,vscode,figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=✨+Designing+with+Code;💻+Building+Modern+Interfaces;🎯+Creating+Clean+User+Experiences;🚀+Frontend+is+Art!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 **Skills Summary**
-| Frontend | Backend | Tools |
-|-----------|----------|--------|
-| HTML5, CSS3, JS, Vue, React | Node.js, Express, MongoDB | Git, GitHub, VSCode, Figma, Tailwind |
+### 🧠 About Me  
+> “I don’t just build UIs — I craft experiences that speak design.”  
+
+💡 Passionate about **Frontend Development & Modern UI/UX**  
+🎨 Skilled in **responsive web design & smooth animations**  
+🌈 Strong eye for **colors, layout & visual hierarchy**  
+⚡ Currently mastering **Vue.js, TailwindCSS & Framer Motion**  
+💬 Motto: *Code the beauty. Design the logic.*  
 
 ---
 
-### 🚀 **GitHub Power Stats**
+### 🛠️ My Frontend Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap,figma,git,github,vscode" />
+</p>
+
+---
+
+### 🧩 Design + Code Stack Summary
+
+| Area | Tools / Tech |
+|------|---------------|
+| **UI Design** | Figma, Canva, Framer |
+| **Frontend Frameworks** | Vue.js, React |
+| **Styling** | TailwindCSS, Bootstrap, SCSS |
+| **Animations** | Framer Motion, AOS.js |
+| **Version Control** | Git & GitHub |
+
+---
+
+### 💻 My GitHub Highlights
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roman-dev&show_icons=true&theme=react&border_radius=20&hide_border=true&line_height=24" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-dev&layout=compact&theme=react&border_radius=20&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=roman-dev&show_icons=true&theme=gradient&border_radius=20&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-dev&layout=compact&theme=gradient&hide_border=true&title_color=8B5CF6" height="170"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=roman-dev&theme=react&hide_border=true&border_radius=20" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=roman-dev&theme=radical&hide_border=true&border_radius=20" height="170" />
 </div>
 
 ---
 
-### 🏆 **Achievements**
+### 🏆 Achievements & Aesthetics  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roman-dev&theme=onedark&no-bg=true&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roman-dev&theme=onedark&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
 
-### 🌐 **Let's Connect**
+### 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:roman@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://github.com/roman-dev" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="mailto:roman@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://github.com/roman-dev"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="45"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=⚡+Sɪʟᴇɴᴄᴇ+Mᴀᴋᴇs+Sᴏᴜɴᴅs+Wɪᴛʜ+Sᴜᴄᴄᴇss;💎+Bᴜɪʟᴅ+Tʜɪɴɢs+Pᴇᴏᴘʟᴇ+Rᴇᴍᴇᴍʙᴇʀ;🚀+I'ᴍ+Rᴏᴍᴀɴ+–+Tʜᴇ+Lᴇɢᴇɴᴅ+Dᴇᴠᴇʟᴏᴘᴇʀ" alt="Roman's Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=💻+Code+Like+a+Designer;🎨+Design+Like+a+Developer;🚀+Roman+–+The+Frontend+Artist" alt="Roman’s Motto" />
 </p>
 
 ---
 
 <p align="center">
-  <b>💬 “Work in silence. Let your commits make the noise.” ⚡</b>
+  <b>“I turn pixels into perfection — one line of code at a time.” ✨</b>
 </p>
 
 ⭐ **From [Roman](https://github.com/roman-dev)**
