@@ -94,13 +94,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=👑+Roman+-+The+Frontend+Emperor;💻+Code+Like+a+Designer;🎨+Design+Like+a+Visionary;🚀+Lead+Like+a+Creator" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=🎨+Design+Is+Psychology;💻+Code+Is+Precision;🚀+Creativity+Is+Power;✨+I+Turn+Pixels+Into+Perfection+—+And+Perfection+Into+Emotion" 
+      alt="Design Philosophy"
+    />
+  </a>
+</div>
 
-<p align="center">
-  <b>“I turn pixels into perfection — and perfection into emotion.” ✨</b>
-</p>
 
 ---
 
